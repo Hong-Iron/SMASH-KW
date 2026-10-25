@@ -20,5 +20,64 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "비마관": {
+      "style": "ribbon",
+      "wall": "#d6dad6",
+      "glass": "#3e4a52",
+      "frame": "#7a3a32"
+    },
+    "광운대학교 동해문화예술관 대극장": {
+      "style": "concrete",
+      "wall": "#c8806a",
+      "glass": "#8a9aa0",
+      "frame": "#d6d4d2"
+    },
+    "화도관": {
+      "style": "stone",
+      "wall": "#ece8e0",
+      "glass": "#4f6e66",
+      "frame": "#f3efeb",
+      "hip": true,
+      "roof": "#765c56"
+    },
+    "누리관": {
+      "style": "glass",
+      "wall": "#c9cbca",
+      "glass": "#2c3a40",
+      "frame": "#94a0aa"
+    },
+    "80th Anniversary Building": {
+      "style": "glass",
+      "wall": "#c8cacc",
+      "glass": "#3d4f5e",
+      "frame": "#8b8f93"
+    },
+    "빛솔재 A동": {
+      "style": "dorm",
+      "wall": "#eef0f0",
+      "glass": "#384d58",
+      "frame": "#3a3f44"
+    },
+    "한울관": {
+      "style": "tan",
+      "wall": "#c8bcb0",
+      "glass": "#3a5560",
+      "frame": "#e3e2de"
+    },
+    "복지관": {
+      "style": "brick",
+      "wall": "#a85a48",
+      "glass": "#3e7f8f",
+      "frame": "#e8e4dc"
+    },
+    "새빛관": {
+      "style": "ribbon",
+      "wall": "#e6e9ea",
+      "glass": "#474c49",
+      "frame": "#a7abab"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
